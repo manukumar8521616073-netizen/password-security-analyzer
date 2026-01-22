@@ -22,6 +22,7 @@ It must not be used for unauthorized access or illegal activities.
 
 
 ## Project Structure
+-main.py - This file is main file all file are call by here
 - password_strength.py – Rule-based strength analysis
 - entropy.py – Entropy calculation logic
 - password_crack_demo.py – Dictionary attack demonstration
