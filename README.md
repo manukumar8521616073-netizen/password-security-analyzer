@@ -20,6 +20,14 @@ dictionary attacks on weak passwords, and generates strong passwords.
 This project is strictly for educational and defensive security purposes.
 It must not be used for unauthorized access or illegal activities.
 
-## Author
+
+## Project Structure
+- password_strength.py – Rule-based strength analysis
+- entropy.py – Entropy calculation logic
+- password_crack_demo.py – Dictionary attack demonstration
+- password_generator.py – Secure password generation
+- wordlist.txt – Sample dictionary (educational)
+
+ ## Author
 pravin kumar 
 Cybersecurity Student
